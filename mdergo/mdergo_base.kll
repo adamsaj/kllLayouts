@@ -1,0 +1,88 @@
+Name = "dox_dvorak";
+Layout = "Standard";
+Version = "1";
+Author = "Adamsaj";
+KLL = "0.3c";
+Date = "2015-10-04";
+
+#Function Keys
+#Left Hand
+U"Equals" : None;
+U"BACKSLASH" : layershift(2);
+U"Tab : layershift(1);
+U"LShift" : U"LBrace";
+U"LGui" : U"CAPSLOCK";
+U"Backtick" : None;
+U"Function3" : None;
+U"Function4" : None;
+U"Function5" : U"LGui";
+U"Function1" : U"Tab";
+U"Function2" : U"Slash";
+U"Backspace" : U"LShift";
+U"Delete" : U"Backspace";
+U"End" : U"LCtrl";
+U"Home" : U"LAlt";
+U"LAlt" : layershift(4);
+U"LCtrl" : layershift(3);
+
+#Right Hand
+U"Minus" : None;
+U"RBrace" : U"Evials";
+U"RShift" : U"RBrace";
+U"RGui" : None;
+U"Right" : None;
+U"Up" : None;
+U"Down" : None;
+U"Left" : U"LGui";
+U"Space" : U"Enter";
+U"Enter" : U"Space";
+U"PageDown" : U"RCtrl";
+U"PageUp" : U"RAlt";
+U"RAlt" : layershift(4);
+U"RCtrl" : layershift(3);
+U"Function7" : U"Backslash";
+U"LBrace" : U"Backtick";
+U"Function6" : U"Esc";
+
+#Shifted Numbers
+U"1" : U"1" + U"LShift";
+U"2" : U"2" + U"LShift";
+U"3" : U"3" + U"LShift";
+U"4" : U"4" + U"LShift";
+U"5" : U"5" + U"LShift";
+U"6" : U"6" + U"LShift";
+U"7" : U"7" + U"LShift";
+U"8" : U"8" + U"LShift";
+U"9" : U"9" + U"LShift";
+U"0" : U"0" + U"LShift";
+
+#Dvorak keys
+U"Q" : U"QUOTE";
+U"W" : U"COMMA";
+U"E" : U"PERIOD";
+U"R" : U"P";
+U"T" : U"Y";
+U"Y" : U"F";
+U"U" : U"G";
+U"I" : U"C";
+U"O" : U"R";
+U"P" : U"L";
+U"S" : U"O";
+U"D" : U"E";
+U"F" : U"U";
+U"G" : U"I";
+U"H" : U"D";
+U"J" : U"H";
+U"K" : U"T";
+U"L" : U"N";
+U"SEMICOLON" : U"S";
+U"QUOTE": U"MINUS";
+U"Z" : U"SEMICOLON";
+U"X" : U"Q";
+U"C" : U"J";
+U"V" : U"K";
+U"B" : U"X";
+U"N" : U"B";
+U"COMMA" : U"W";
+U"PERIOD" : U"V";
+U"SLASH" : U"Z";
