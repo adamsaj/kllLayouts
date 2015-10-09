@@ -8,8 +8,8 @@ Date = "2015-10-04";
 #Function Keys
 #Left Hand
 U"Equals" : None;
-U"BACKSLASH" : layershift(2);
-U"Tab : layershift(1);
+U"BACKSLASH" : layerLock(2);
+U"Tab : layerLock(1);
 U"LShift" : U"LBrace";
 U"LGui" : U"CAPSLOCK";
 U"Backtick" : None;
@@ -22,8 +22,8 @@ U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
 U"Home" : U"LAlt";
-U"LAlt" : layershift(4);
-U"LCtrl" : layershift(3);
+U"LAlt" : layerLock(4);
+U"LCtrl" : layerLock(3);
 
 #Right Hand
 U"Minus" : None;
@@ -38,8 +38,8 @@ U"Space" : U"Enter";
 U"Enter" : U"Space";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
-U"RAlt" : layershift(4);
-U"RCtrl" : layershift(3);
+U"RAlt" : layerLock(4);
+U"RCtrl" : layerLock(3);
 U"Function7" : U"Backslash";
 U"LBrace" : U"Backtick";
 U"Function6" : U"Esc";
