@@ -1,0 +1,27 @@
+Name = "dox_dvorak";
+Layout = "Standard";
+Version = "1";
+Author = "Adamsaj";
+KLL = "0.3c";
+Date = "2015-10-09";
+
+U"u" : U"P7";
+U"i" : U"P8";
+U"o" : U"P9";
+U"j" : U"P4";
+U"k" : U"P5";
+U"l" : U"P6";
+U"m" : U"P1";
+U"Period" : U"P2";
+U"Comma" : U"P3";
+U"Enter" : U"P0";
+U"Down" : U"P.";
+U"Slash" : U"P+";
+U"Simicolon" : U"P+";
+U"Slash" + U"Simicolon" : U"P+";
+U"7" : U"P=";
+U"8" : U"P/";
+U"9" : U"P*";
+U"0" : U"P-";
+U"p" : P"P-";
+U"0" + U"p" : P"P-";
