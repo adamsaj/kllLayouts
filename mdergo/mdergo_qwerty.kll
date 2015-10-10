@@ -1,0 +1,88 @@
+Name = "dox_QWERTY";
+Layout = "Standard";
+Version = "1";
+Author = "Adamsaj";
+KLL = "0.3c";
+Date = "2015-10-09";
+
+#Function Keys
+#Left Hand
+U"Equals" : None;
+U"BACKSLASH" : layerLock(2);
+U"Tab : layerLock(1);
+U"LShift" : U"LBrace";
+U"LGui" : U"CAPSLOCK";
+U"Backtick" : None;
+U"Function3" : None;
+U"Function4" : None;
+U"Function5" : U"LGui";
+U"Function1" : U"Tab";
+U"Function2" : U"Slash";
+U"Backspace" : U"LShift";
+U"Delete" : U"Backspace";
+U"End" : U"LCtrl";
+U"Home" : U"LAlt";
+U"LAlt" : layerLock(4);
+U"LCtrl" : layerLock(3);
+
+#Right Hand
+U"Minus" : None;
+U"RBrace" : U"Evials";
+U"RShift" : U"RBrace";
+U"RGui" : None;
+U"Right" : None;
+U"Up" : None;
+U"Down" : None;
+U"Left" : U"LGui";
+U"Space" : U"Enter";
+U"Enter" : U"Space";
+U"PageDown" : U"RCtrl";
+U"PageUp" : U"RAlt";
+U"RAlt" : layerLock(4);
+U"RCtrl" : layerLock(3);
+U"Function7" : U"Backslash";
+U"LBrace" : U"Backtick";
+U"Function6" : U"Esc";
+
+#Numbers
+U"1" : U"1";
+U"2" : U"2";
+U"3" : U"3";
+U"4" : U"4";
+U"5" : U"5";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+
+#QWERTY keys
+U"Q" : U"Q";
+U"W" : U"W";
+U"E" : U"E";
+U"R" : U"R";
+U"T" : U"T";
+U"Y" : U"Y";
+U"U" : U"U";
+U"I" : U"I";
+U"O" : U"O";
+U"P" : U"P";
+U"S" : U"S";
+U"D" : U"D";
+U"F" : U"F";
+U"G" : U"G";
+U"H" : U"H";
+U"J" : U"J";
+U"K" : U"K";
+U"L" : U"L";
+U"SEMICOLON" : U"SEMICOLON";
+U"QUOTE": U"QUOTE";
+U"Z" : U"Z";
+U"X" : U"X";
+U"C" : U"C";
+U"V" : U"V";
+U"B" : U"B";
+U"N" : U"N";
+U"COMMA" : U"COMMA";
+U"PERIOD" : U"PERIOD";
+U"SLASH" : U"SLASH";
