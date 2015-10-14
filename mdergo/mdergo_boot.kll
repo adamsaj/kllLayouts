@@ -5,4 +5,4 @@ Author = "Adamsaj";
 KLL = "0.3c";
 Date = "2015-10-09";
 
-U"B", U"O", U"O", U"T" : kbdProtocolBoot;
+U"B", U"O", U"O", U"T" : kbdProtocolBoot();
