@@ -9,7 +9,7 @@ Date = "2015-10-04";
 #Left Hand
 U"Equals" : None;
 U"BACKSLASH" : U"Lock2";
-U"Tab" : U"Lock1";
+U"Tab" : U"Function1";
 U"LShift" : U"LBrace";
 U"LGui" : U"CAPSLOCK";
 U"Backtick" : None;
