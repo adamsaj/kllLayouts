@@ -27,15 +27,13 @@ U"LCtrl" : U"Lock3";
 
 #Right Hand
 U"Minus" : None;
-#U"RBrace" : U"Evials"; # What's this supposed to be?
+U"RBrace" : U"Equals";
 U"RShift" : U"RBrace";
 U"RGui" : None;
 U"Right" : None;
 U"Up" : None;
 U"Down" : None;
 U"Left" : U"LGui";
-U"Space" : U"Enter";
-U"Enter" : U"Space";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
 U"RAlt" : U"Lock4";
