@@ -5,4 +5,7 @@ Author = "Adamsaj";
 KLL = "0.3c";
 Date = "2015-10-09";
 
-U"ESC" : kbdProtocolBoot();
+U"ESC" : flashMode();
+U"Equals" : flashMode();
+U"Function6" : flashMode();
+U"Minus" : flashMode();
