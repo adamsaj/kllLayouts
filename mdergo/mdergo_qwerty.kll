@@ -7,10 +7,12 @@ Date = "2015-10-04";
 
 #Function Keys
 #Left Hand
+U"Delete" : U"LShift";
+U"Backspace" : U"Space";
 
 #Right Hand
 
-#Shifted Numbers
+#Un-Shifted Numbers
 U"1" : U"1";
 U"2" : U"2";
 U"3" : U"3";
@@ -22,7 +24,7 @@ U"8" : U"8";
 U"9" : U"9";
 U"0" : U"0";
 
-#Dvorak keys
+#QWERTY keys
 U"Q" : U"Q";
 U"W" : U"W";
 U"E" : U"E";
