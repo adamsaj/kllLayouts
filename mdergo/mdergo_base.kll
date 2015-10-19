@@ -22,7 +22,7 @@ U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
 U"Home" : U"LAlt";
-U"LAlt" : U"Lock4";
+U"LAlt" : U"Lock1";
 U"LCtrl" : U"Lock3";
 
 #Right Hand
@@ -36,8 +36,8 @@ U"Down" : None;
 U"Left" : U"LGui";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
-U"RAlt" : U"Lock4";
-U"RCtrl" : U"Lock4";
+U"RAlt" : U"Lock1";
+U"RCtrl" : U"Lock3";
 U"Function7" : U"Backslash";
 U"LBrace" : U"Backtick";
 U"Function6" : U"Esc";
