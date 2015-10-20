@@ -8,7 +8,7 @@ Date = "2015-10-04";
 #Function Keys
 #Left Hand
 U"Backspace" : U"Space";
-U"LShift" : U"LShift;
+U"LShift" : U"LShift";
 U"Tab" : U"CAPSLOCK";
 U"Backslash" : U"Tab";
 
