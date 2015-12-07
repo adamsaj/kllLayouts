@@ -9,6 +9,7 @@ Date = "2015-10-04";
 #Left Hand
 U"Backspace" : U"Space";
 U"LShift" : U"LShift";
+U"Delete" : U"Enter";
 U"Tab" : U"CAPSLOCK";
 U"Backslash" : U"Tab";
 
