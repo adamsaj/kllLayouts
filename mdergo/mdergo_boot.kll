@@ -9,3 +9,5 @@ U"ESC" : flashMode();
 U"Equals" : flashMode();
 U"Function6" : flashMode();
 U"Minus" : flashMode();
+U"Space" : U"Lock5";
+U"Backspace" : U"Lock5";
