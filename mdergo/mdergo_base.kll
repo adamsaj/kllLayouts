@@ -7,7 +7,7 @@ Date = "2015-10-04";
 
 #Function Keys
 #Left Hand
-U"Equals" : U"Lock1";
+U"Equals" : U"Function4";
 U"BACKSLASH" : U"Function2";
 U"Tab" : U"Function1";
 U"LShift" : U"LBrace";
@@ -22,7 +22,7 @@ U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
 U"Home" : U"LAlt";
-U"LAlt" : U"Function4";
+U"LAlt" : U"Function6";
 U"LCtrl" : U"Lock3";
 
 #Right Hand
@@ -30,13 +30,13 @@ U"Minus" : U"Lock2";
 U"RBrace" : U"Equals";
 U"RShift" : U"RBrace";
 U"RGui" : None;
-U"Right" : None;
-U"Up" : None;
-U"Down" : None;
+U"Right" : U"Lock1";
+U"Up" : U"Lock2";
+U"Down" : U"Lock4";
 U"Left" : U"LGui";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
-U"RAlt" : U"Function4";
+U"RAlt" : U"Function6";
 U"RCtrl" : U"Lock3";
 U"Function7" : U"Backslash";
 U"LBrace" : U"Backtick";

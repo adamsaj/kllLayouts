@@ -1,0 +1,16 @@
+Name = "dox_function";
+Layout = "Standard";
+Version = "1";
+Author = "Adamsaj";
+KLL = "0.3c";
+Date = "2016-01-18";
+
+U"u" : U"F7";
+U"i" : U"F8";
+U"o" : U"F9";
+U"j" : U"F4";
+U"k" : U"F5";
+U"l" : U"F6";
+U"m" : U"F1";
+U"Period" : U"F3";
+U"Comma" : U"F2";
