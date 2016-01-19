@@ -5,16 +5,16 @@ Author = "Adamsaj";
 KLL = "0.3c";
 Date = "2015-10-09";
 
-U"u" : U"P7";
-U"i" : U"P8";
-U"o" : U"P9";
-U"j" : U"P4";
-U"k" : U"P5";
-U"l" : U"P6";
-U"m" : U"P1";
-U"Period" : U"P3";
-U"Comma" : U"P2";
-U"Space" : U"P0";
+U"u" : U"7";
+U"i" : U"8";
+U"o" : U"9";
+U"j" : U"4";
+U"k" : U"5";
+U"l" : U"6";
+U"m" : U"1";
+U"Period" : U"3";
+U"Comma" : U"2";
+U"Space" : U"0";
 U"Down" : U"P.";
 U"Slash" : U"P+";
 U"Semicolon" : U"P+";
@@ -25,3 +25,6 @@ U"9" : U"P*";
 U"0" : U"P-";
 U"p" : U"P-";
 U"0" + U"p" : U"P-";
+
+
+U"Backspace" : U"Function7";

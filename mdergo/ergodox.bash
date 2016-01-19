@@ -31,12 +31,13 @@ DefaultMap="mdergo_base lcdFuncMap"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="mdergo_numpad"
+PartialMaps[1]="mdergo_numbers stdFuncMap"
 PartialMaps[2]="mdergo_arrows"
 PartialMaps[3]="mdergo_qwerty"
 PartialMaps[4]="mdergo_function"
 PartialMaps[5]="mdergo_Windows"
 PartialMaps[6]="mdergo_boot stdFuncMap"
+PartialMaps[7]="mdergo_numpad"
 
 
 
