@@ -26,7 +26,7 @@ U"LAlt" : U"Function6";
 U"LCtrl" : U"Lock3";
 
 #Right Hand
-U"Minus" : U"Lock2";
+U"Minus" : None;
 U"RBrace" : U"Equals";
 U"RShift" : U"RBrace";
 U"RGui" : None;
