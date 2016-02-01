@@ -15,8 +15,13 @@ else
 	make
 	cd ../..
 fi
-cp keyboard_layouts/mdergo/mdergo* controller/kll/layouts
-cp keyboard_layouts/mdergo/ergodox.bash controller/Keyboards
+
+cd keyboard_layouts/mdergo
+for i in mdergo*; do
+	./layermap.sed <$i >../../controller/kll/layouts/$i
+done
+./layermap.sed <ergodox.bash >../../controller/Keyboards/ergodox.bash
+cd ../..
 
 cd controller/Keyboards
 ./ergodox.bash

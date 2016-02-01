@@ -7,9 +7,9 @@ Date = "2015-10-04";
 
 #Function Keys
 #Left Hand
-U"Equals" : U"Function4";
-U"BACKSLASH" : U"Function2";
-U"Tab" : U"Function1";
+U"Equals" : U"FunctionmdergoFunction.number";
+U"BACKSLASH" : U"FunctionmdergoArrows.number";
+U"Tab" : U"FunctionmdergoNumbers.number";
 U"LShift" : U"LBrace";
 U"LGui" : U"CAPSLOCK";
 U"FUNCTION4" : None;
@@ -22,22 +22,22 @@ U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
 U"Home" : U"LAlt";
-U"LAlt" : U"Function6";
-U"LCtrl" : U"Lock3";
+U"LAlt" : U"FunctionmdergoBoot.number";
+U"LCtrl" : U"LockmdergoQwerty.number";
 
 #Right Hand
 U"Minus" : None;
 U"RBrace" : U"Equals";
 U"RShift" : U"RBrace";
 U"RGui" : None;
-U"Right" : U"Lock1";
-U"Up" : U"Lock2";
-U"Down" : U"Lock4";
+U"Right" : U"LockmdergoNumbers.number";
+U"Up" : U"LockmdergoArrows.number";
+U"Down" : U"LockmdergoFunction.number";
 U"Left" : U"LGui";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
-U"RAlt" : U"Function6";
-U"RCtrl" : U"Lock3";
+U"RAlt" : U"FunctionmdergoBoot.number";
+U"RCtrl" : U"LockmdergoQwerty.number";
 U"Function7" : U"Backslash";
 U"LBrace" : U"Backtick";
 U"Function6" : U"Esc";
