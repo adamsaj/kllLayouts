@@ -1,0 +1,15 @@
+Name = "dox_dvorak";
+Layout = "Standard";
+Version = "1";
+Author = "Adamsaj";
+KLL = "0.3c";
+Date = "2015-10-04";
+
+#Function Keys
+#Left Hand
+U"LCtrl" : U"LCtrl" + U"LAlt" + U"Delete";
+U"Backspace" : U"LGui" + U"L";
+
+#Right Hand
+U"RCtrl" : U"LCtrl" + U"LAlt" + U"Delete";
+U"Enter" : U"LGui" + U"L";

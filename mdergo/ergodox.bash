@@ -38,6 +38,7 @@ PartialMaps[mdergoFunction.number]="mdergoFunction"
 PartialMaps[mdergoWindows.number]="mdergoWindows"
 PartialMaps[mdergoBoot.number]="mdergoBoot stdFuncMap"
 PartialMaps[mdergoNumpad.number]="mdergoNumpad"
+PartialMaps[mdergoWindowsFunctions.number]="mdergoWindowsFunctions"
 
 
 
