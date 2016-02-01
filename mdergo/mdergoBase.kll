@@ -7,11 +7,11 @@ Date = "2015-10-04";
 
 #Function Keys
 #Left Hand
-U"Equals" : U"FunctionmdergoFunction.number";
-U"BACKSLASH" : U"FunctionmdergoArrows.number";
-U"Tab" : U"FunctionmdergoNumbers.number";
-U"LShift" : U"LBrace";
-U"LGui" : U"CAPSLOCK";
+U"Equals" : U"LBrace";
+U"BACKSLASH" : U"FunctionmdergoFunction.number";
+U"Tab" : U"FunctionmdergoArrows.number";
+U"LShift" : U"FunctionmdergoNumbers.number";
+U"LGui" : None";
 U"FUNCTION4" : None;
 U"FUNCTION3" : None;
 U"BACKTICK" : None;
@@ -26,9 +26,9 @@ U"LAlt" : U"FunctionmdergoBoot.number";
 U"LCtrl" : U"LockmdergoQwerty.number";
 
 #Right Hand
-U"Minus" : None;
+U"Minus" : U"RBrace";
 U"RBrace" : U"Equals";
-U"RShift" : U"RBrace";
+U"RShift" : None;
 U"RGui" : None;
 U"Right" : U"LockmdergoNumbers.number";
 U"Up" : U"LockmdergoArrows.number";
