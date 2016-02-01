@@ -15,16 +15,16 @@ U"m" : U"1";
 U"Period" : U"3";
 U"Comma" : U"2";
 U"Space" : U"0";
-U"Down" : U"P.";
-U"Slash" : U"P+";
-U"Semicolon" : U"P+";
-U"Slash" + U"Semicolon" : U"P+";
-U"7" : U"P=";
-U"8" : U"P/";
-U"9" : U"P*";
-U"0" : U"P-";
-U"p" : U"P-";
-U"0" + U"p" : U"P-";
+U"Down" : U".";
+U"Slash" : U"=" + U"LShift";
+U"Semicolon" : U"=" + U"LShift";
+U"Slash" + U"Semicolon" : U"=" + U"LShift";
+U"7" : U"=";
+U"8" : U"/";
+U"9" : U"8" + U"LShift";
+U"0" : U"-";
+U"p" : U"-";
+U"0" + U"p" : U"-";
 
 
 U"Backspace" : U"FunctionmdergoNumpad.number";
