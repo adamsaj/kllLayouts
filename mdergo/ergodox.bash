@@ -36,7 +36,7 @@ PartialMaps[<mdergoArrows.number>]="mdergoArrows"
 PartialMaps[<mdergoQwerty.number>]="mdergoQwerty"
 PartialMaps[<mdergoFunctionKeys.number>]="mdergoFunctionKeys"
 PartialMaps[<mdergoWindows.number>]="mdergoWindows"
-PartialMaps[<mdergoFunction.number>]="mdergoBoot stdFuncMap"
+PartialMaps[<mdergoFunction.number>]="mdergoFunction stdFuncMap"
 PartialMaps[<mdergoNumpad.number>]="mdergoNumpad"
 PartialMaps[<mdergoBoot.number>]="mdergoBoot"
 
