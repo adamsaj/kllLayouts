@@ -9,9 +9,9 @@ Date = "2015-10-04";
 #Left Hand
 U"Function5" : U"LAlt";
 U"Home" : U"LGui";
-U"LAlt" :+ U"FunctionmdergoWindowsFunctions.number";
+U"LAlt" : U"Function<mdergoWindowsFunctions.number>";
 
 #Right Hand
 U"Left" : U"LAlt";
 U"PageUp" : U"RGui";
-U"RAlt" :+ U"FunctionmdergoWindowsFunctions.number";
+U"RAlt" : U"Function<mdergoWindowsFunctions.number>";
