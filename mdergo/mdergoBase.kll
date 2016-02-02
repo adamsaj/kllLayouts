@@ -8,9 +8,9 @@ Date = "2015-10-04";
 #Function Keys
 #Left Hand
 U"Equals" : U"LBrace";
-U"BACKSLASH" : U"FunctionmdergoFunction.number";
-U"Tab" : U"FunctionmdergoArrows.number";
-U"LShift" : U"FunctionmdergoNumbers.number";
+U"BACKSLASH" : U"Function<mdergoFunction.number>";
+U"Tab" : U"Function<mdergoArrows.number>";
+U"LShift" : U"Function<mdergoNumbers.number>";
 U"LGui" : None;
 U"FUNCTION4" : None;
 U"FUNCTION3" : None;
@@ -22,22 +22,22 @@ U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
 U"Home" : U"LAlt";
-U"LAlt" : U"FunctionmdergoBoot.number";
-U"LCtrl" : U"LockmdergoQwerty.number";
+U"LAlt" : U"Function<mdergoBoot.number>";
+U"LCtrl" : U"Lock<mdergoQwerty.number>";
 
 #Right Hand
 U"Minus" : U"RBrace";
 U"RBrace" : U"Equals";
 U"RShift" : None;
 U"RGui" : None;
-U"Right" : U"LockmdergoNumbers.number";
-U"Up" : U"LockmdergoArrows.number";
-U"Down" : U"LockmdergoFunction.number";
+U"Right" : U"Lock<mdergoNumbers.number>";
+U"Up" : U"Lock<mdergoArrows.number>";
+U"Down" : U"Lock<mdergoFunction.number>";
 U"Left" : U"LGui";
 U"PageDown" : U"RCtrl";
 U"PageUp" : U"RAlt";
-U"RAlt" : U"FunctionmdergoBoot.number";
-U"RCtrl" : U"LockmdergoQwerty.number";
+U"RAlt" : U"Function<mdergoBoot.number>";
+U"RCtrl" : U"Lock<mdergoQwerty.number>";
 U"Function7" : U"Backslash";
 U"LBrace" : U"Backtick";
 U"Function6" : U"Esc";
