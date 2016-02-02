@@ -34,11 +34,12 @@ DefaultMap="mdergoBase lcdFuncMap"
 PartialMaps[<mdergoNumbers.number>]="mdergoNumbers stdFuncMap"
 PartialMaps[<mdergoArrows.number>]="mdergoArrows"
 PartialMaps[<mdergoQwerty.number>]="mdergoQwerty"
-PartialMaps[<mdergoFunction.number>]="mdergoFunction"
+PartialMaps[<mdergoFunctionKeys.number>]="mdergoFunctionKeys"
 PartialMaps[<mdergoWindows.number>]="mdergoWindows"
-PartialMaps[<mdergoBoot.number>]="mdergoBoot stdFuncMap"
+PartialMaps[<mdergoFunction.number>]="mdergoBoot stdFuncMap"
 PartialMaps[<mdergoNumpad.number>]="mdergoNumpad"
 PartialMaps[<mdergoWindowsFunctions.number>]="mdergoWindowsFunctions"
+PartialMaps[<mdergoBoot.number>]="mdergoBoot"
 
 
 
