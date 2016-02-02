@@ -16,7 +16,7 @@ else
 	cd ../..
 fi
 
-cd keyboard_layouts/mdergo
+cd kllLayouts/mdergo
 for i in mdergo*; do
 	./layermap.sed <$i >../../controller/kll/layouts/$i
 done
@@ -26,4 +26,4 @@ cd ../..
 cd controller/Keyboards
 ./ergodox.bash
 cd ../..
-mv controller/Keyboards/ICED-* keyboard_layouts/mdergo
+mv controller/Keyboards/ICED-* kllLayouts/mdergo
