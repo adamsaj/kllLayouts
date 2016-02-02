@@ -15,6 +15,9 @@ U"PageUp" : CONS"BRIGHTNESSINCREMENT";
 U"PageDown" : CONS"BRIGHTNESSDECREMENT";
 
 #Left Hand Functions
+U"BACKSLASH" : U"Lock<mdergoFunctionKeys.number>";
+U"Tab" : U"Lock<mdergoArrows.number>";
+U"LShift" : U"Lock<mdergoNumbers.number>";
 U"Backspace" : U"Lock<mdergoWindows.number>";
 U"Function1" : ledControl( 4, 15, 0 );
 U"Function2" : ledControl( 3, 15, 0 );
