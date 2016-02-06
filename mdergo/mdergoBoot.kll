@@ -9,19 +9,3 @@ U"ESC" : flashMode();
 U"Equals" : flashMode();
 U"Function6" : flashMode();
 U"Minus" : flashMode();
-U"Space" : U"Lock<mdergoWindows.number>";
-U"Backspace" : U"Lock<mdergoWindows.number>";
-
-#Right Hand Functions
-U"Function7" : CONS"VOLUMEDOWN";
-U"LBrace" : CONS"VOLUMEUP";
-U"Function6" : CONS"MUTE";
-U"PageUp" : CONS"BRIGHTNESSINCREMENT";
-U"PageDown" : CONS"BRIGHTNESSDECREMENT";
-
-#Left Hand Functions
-U"Function1" : ledControl( 4, 15, 0 );
-U"Function2" : ledControl( 3, 15, 0 );
-U"Esc" : ledControl( 5, 0, 0 );
-U"Home" : CONS"BRIGHTNESSINCREMENT";
-U"End" : CONS"BRIGHTNESSDECREMENT";

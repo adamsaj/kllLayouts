@@ -1,19 +1,26 @@
-Name = "dox_function";
+Name = "dox_boot";
 Layout = "Standard";
 Version = "1";
 Author = "Adamsaj";
 KLL = "0.3c";
-Date = "2016-01-18";
+Date = "2015-10-09";
 
-U"u" : U"F7";
-U"i" : U"F8";
-U"o" : U"F9";
-U"j" : U"F4";
-U"k" : U"F5";
-U"l" : U"F6";
-U"m" : U"F1";
-U"Period" : U"F3";
-U"Comma" : U"F2";
-U"7" : U"F10";
-U"8" : U"F11";
-U"9" : U"F12";
+
+#Right Hand Functions
+U"Space" : U"Lock<mdergoWindows.number>";
+U"Function7" : CONS"VOLUMEDOWN";
+U"LBrace" : CONS"VOLUMEUP";
+U"Function6" : CONS"MUTE";
+U"PageUp" : CONS"BRIGHTNESSINCREMENT";
+U"PageDown" : CONS"BRIGHTNESSDECREMENT";
+
+#Left Hand Functions
+U"BACKSLASH" : U"Lock<mdergoFunctionKeys.number>";
+U"Tab" : U"Lock<mdergoArrows.number>";
+U"LShift" : U"Lock<mdergoNumbers.number>";
+U"Backspace" : U"Lock<mdergoWindows.number>";
+U"Function1" : ledControl( 4, 15, 0 );
+U"Function2" : ledControl( 3, 15, 0 );
+U"Esc" : ledControl( 5, 0, 0 );
+U"Home" : CONS"BRIGHTNESSINCREMENT";
+U"End" : CONS"BRIGHTNESSDECREMENT";
