@@ -9,5 +9,7 @@ U"j" : U"Left";
 U"k" : U"Down";
 U"l" : U"Right";
 U"i" : U"Up";
+U"u" : U"Home";
+U"o" : U"End";
 U"Enter" : U"PageDown";
 U"Space" : U"PageUp";
