@@ -7,7 +7,7 @@ Date = "2015-10-04";
 
 #Function Keys
 #Left Hand
-U"Equals" : U"LBrace";
+U"Equals" : None;
 U"BACKSLASH" : U"Function<mdergoFunctionKeys.number>";
 U"Tab" : U"Function<mdergoArrows.number>";
 U"LShift" : U"Function<mdergoNumbers.number>";
@@ -26,7 +26,9 @@ U"LAlt" : U"Function<mdergoFunction.number>";
 U"LCtrl" : U"Lock<mdergoQwerty.number>";
 
 #Right Hand
-U"Minus" : U"RBrace";
+U"9" : U"9" + U"LShift", U"0" + U"LShift", U"Left";
+U"0" : U"LBrace", U"RBrace", U"Left";
+U"Minus" : U"LShift" + U"LBrace", U"LShift" + U"RBrace", U"Left";
 U"RBrace" : U"Equals";
 U"RShift" : None;
 U"RGui" : U"Function<mdergoBoot.number>";
@@ -51,8 +53,6 @@ U"5" : U"5" + U"LShift";
 U"6" : U"6" + U"LShift";
 U"7" : U"7" + U"LShift";
 U"8" : U"8" + U"LShift";
-U"9" : U"9" + U"LShift";
-U"0" : U"0" + U"LShift";
 
 #Dvorak keys
 U"Q" : U"QUOTE";
