@@ -1,6 +1,9 @@
 #!/bin/bash
 
-rm -r ICED-*
+if [ -d ICED-R ]; then
+	rm -r ICED-*
+fi
+
 cd ../..
 if [ -d controller ]; then
 	cd controller
@@ -13,7 +16,9 @@ else
 	cd first_compile
 	cmake ..
 	make
-	cd ../..
+	cd ..
+	rm -rf first_compile
+	cd ..
 fi
 
 cd kllLayouts/mdergo
