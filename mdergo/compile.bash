@@ -23,9 +23,9 @@ fi
 
 cd kllLayouts/mdergo
 for i in mdergo*; do
-	./layermap.sed <$i >../../controller/kll/layouts/$i
+	./layermap.sh <$i >../../controller/kll/layouts/$i
 done
-./layermap.sed <ergodox.bash >../../controller/Keyboards/ergodox.bash
+./layermap.sh <ergodox.bash >../../controller/Keyboards/ergodox.bash
 cd ../..
 
 cd controller/Keyboards
