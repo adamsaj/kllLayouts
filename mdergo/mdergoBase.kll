@@ -6,18 +6,51 @@ KLL = "0.3c";
 Date = "2015-10-04";
 
 #Function Keys
-#Left Hand
+#####################Left Hand####################
+
+#--------------------Top Row--------------------
 U"Equals" : None;
+U"1" : U"1" + U"LShift";
+U"2" : U"2" + U"LShift";
+U"3" : U"3" + U"LShift";
+U"4" : U"4" + U"LShift";
+U"5" : U"5" + U"LShift";
+U"Esc" : U"Esc";
+
+#--------------------Upper Middle Row--------------------
 U"BACKSLASH" : U"Function<mdergoFunctionKeys.number>";
-U"Tab" : U"Function<mdergoArrows.number>";
-U"LShift" : U"Function<mdergoNumbers.number>";
-U"LGui" : U"Function<mdergoBoot.number>";
-U"FUNCTION4" : None;
-U"FUNCTION3" : None;
-U"BACKTICK" : None;
-U"Function5" : U"LGui";
+U"Q" : U"QUOTE";
+U"W" : U"COMMA";
+U"E" : U"PERIOD";
+U"R" : U"P";
+U"T" : U"Y";
 U"Function1" : U"Tab";
+
+#--------------------Middle Row--------------------
+U"Tab" : U"Function<mdergoArrows.number>";
+U"A" : U"A";
+U"S" : U"O";
+U"D" : U"E";
+U"F" : U"U";
+U"G" : U"I";
+
+#--------------------Lower Middle Row--------------------
+U"LShift" : U"Function<mdergoNumbers.number>";
+U"Z" : U"SEMICOLON";
+U"X" : U"Q";
+U"C" : U"J";
+U"V" : U"K";
+U"B" : U"X";
 U"Function2" : U"Slash";
+
+#--------------------Bottom Row--------------------
+U"LGui" : U"Function<mdergoBoot.number>";
+U"BACKTICK" : None;
+U"FUNCTION3" : None;
+U"FUNCTION4" : None;
+U"Function5" : U"LGui";
+
+#--------------------Thumb--------------------
 U"Backspace" : U"LShift";
 U"Delete" : U"Backspace";
 U"End" : U"LCtrl";
@@ -25,62 +58,54 @@ U"Home" : U"LAlt";
 U"LAlt" : U"Function<mdergoFunction.number>";
 U"LCtrl" : U"Lock<mdergoQwerty.number>";
 
-#Right Hand
-U"9" : U"9" + U"LShift", U"0" + U"LShift", U"Left";
-U"0" : U"LBrace", U"RBrace", U"Left";
-U"Minus" : U"LShift" + U"LBrace", U"LShift" + U"RBrace", U"Left";
-U"RBrace" : U"Equals";
-U"RShift" : None;
-U"RGui" : U"Function<mdergoBoot.number>";
-U"Right" : None;
-U"Up" : None;
-U"Down" : None;
-U"Left" : U"LGui";
-U"PageDown" : U"RCtrl";
-U"PageUp" : U"RAlt";
-U"RAlt" : U"Function<mdergoFunction.number>";
-U"RCtrl" : U"Lock<mdergoQwerty.number>";
-U"Function7" : U"Backslash";
-U"LBrace" : U"Backtick";
-U"Function6" : U"Esc";
+#####################Right Hand####################
 
-#Shifted Numbers
-U"1" : U"1" + U"LShift";
-U"2" : U"2" + U"LShift";
-U"3" : U"3" + U"LShift";
-U"4" : U"4" + U"LShift";
-U"5" : U"5" + U"LShift";
+#--------------------Top Row--------------------
+U"Function6" : U"Esc";
 U"6" : U"6" + U"LShift";
 U"7" : U"7" + U"LShift";
 U"8" : U"8" + U"LShift";
+U"9" : U"9" + U"LShift", U"0" + U"LShift", U"Left";
+U"0" : U"LBrace", U"RBrace", U"Left";
+U"Minus" : U"LShift" + U"LBrace", U"LShift" + U"RBrace", U"Left";
 
-#Dvorak keys
-U"Q" : U"QUOTE";
-U"W" : U"COMMA";
-U"E" : U"PERIOD";
-U"R" : U"P";
-U"T" : U"Y";
+#--------------------Upper Middle Row--------------------
+U"LBrace" : U"Backtick";
 U"Y" : U"F";
 U"U" : U"G";
 U"I" : U"C";
 U"O" : U"R";
 U"P" : U"L";
-U"S" : U"O";
-U"D" : U"E";
-U"F" : U"U";
-U"G" : U"I";
+U"RBrace" : U"Equals";
+
+#--------------------Middle Row--------------------
 U"H" : U"D";
 U"J" : U"H";
 U"K" : U"T";
 U"L" : U"N";
 U"SEMICOLON" : U"S";
 U"QUOTE": U"MINUS";
-U"Z" : U"SEMICOLON";
-U"X" : U"Q";
-U"C" : U"J";
-U"V" : U"K";
-U"B" : U"X";
+
+#--------------------Lower Middle Row--------------------
+U"Function7" : U"Backslash";
 U"N" : U"B";
+U"M" : U"M";
 U"COMMA" : U"W";
 U"PERIOD" : U"V";
 U"SLASH" : U"Z";
+U"RShift" : None;
+
+#--------------------Bottom Row--------------------
+U"Left" : U"LGui";
+U"Down" : None;
+U"Up" : None;
+U"Right" : None;
+U"RGui" : U"Function<mdergoBoot.number>";
+
+#--------------------Thumb--------------------
+U"PageDown" : U"RCtrl";
+U"PageUp" : U"RAlt";
+U"Enter" : U"Enter";
+U"Space" : U"Space";
+U"RAlt" : U"Function<mdergoFunction.number>";
+U"RCtrl" : U"Lock<mdergoQwerty.number>";
